@@ -1,0 +1,3 @@
+Onur Karagüler:100,100,90
+İlkay Karagüler:90,70,80
+Umut Karagüler:60,80,90

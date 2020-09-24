@@ -1,0 +1,4 @@
+Onur Karagüler:95,90,100---ortalama:95.0---not:AA
+İlkay Karagüler:85,95,90---ortalama:90.0---not:AA
+Umut Karagüler:80,75,85---ortalama:80.0---not:BB
+

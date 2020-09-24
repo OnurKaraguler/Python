@@ -1,0 +1,4 @@
+Onur Karagüler:95,90,85
+İlkay Karagüler:80,70,75
+Umut Karagüler:60,50,70
+Defne Karagüler:70,60,80
