@@ -37,6 +37,8 @@ print(courses.count('Art'))
 courses.reverse()
 print(courses)
 
+
+
 # sort the list
 courses.pop()
 courses.sort()  # strings are sorted alphabetically
@@ -57,6 +59,26 @@ print(courses)
 
 sorted_courses = sorted(courses)  # to get the sorted list we have to make a new variable
 print(sorted_courses)
+
+# sort a tuple
+tup = (9, 1, 8, 2, 7, 3, 6, 4, 5)
+# tup.sort()    # gives an error
+s_tup = sorted(tup)
+print(s_tup)
+
+# sort a dictionary
+di = {'name': 'Onur', 'job': 'programming', 'age': None, 'os': 'Mac'}
+s_di = sorted(di)       # sort the keys
+print(s_di)
+
+# sort a list based on absolute value of its values
+
+li_abs = [-6, -5, -4, 1, 2, 3]
+s_li = sorted(li_abs, key=abs)
+print(s_li)         # [1, 2, 3, -4, -5, -6]
+
+
+
 
 # min, max and sum
 print(min(nums))
